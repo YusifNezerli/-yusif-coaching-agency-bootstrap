@@ -1,0 +1,243 @@
+@media only screen and (max-width: 767px){
+    .col{
+       flex:none !important;
+       padding-top: 0 !important;
+       text-align: left !important;
+    }
+    .text12{
+        padding-top: 0;
+    }
+    .high{
+        width: 100%;
+    }
+    .card-body{
+        width: 100% !important;
+    }
+    .card-title{
+        padding-top: 30px !important;
+    }
+   
+    .imagetextcard{
+        display: block !important;
+    }
+    .row{
+        width: 100% !important;
+    }
+    .fon5{
+        padding: 0;
+    }
+    .image{
+        width: 100% !important;
+    }
+    .image-in-text{
+        padding-left: 0 !important;
+    }
+    .imagetextcard2{
+        display: block !important;
+    }
+    .img-1-11{
+        width: 162% !important;
+    }
+    .textmini{
+        padding-left: 0 !important;
+    }
+    .number{
+        padding-left: 0 !important;
+    }
+    .number2{
+        padding-left: 0 !important;
+    }
+    .d-flex{
+        padding-left: 0 !important;
+        width: 100% !important;
+        padding-top: 0 !important;
+    }
+    .text13{
+        display: block !important;
+        padding-top: 0 !important;
+    }
+    .high1{
+        width: 100% !important;
+    }
+    .learn1{
+        padding: 0 !important;
+    }
+    .pick{
+        padding-left: 0 !important;
+    }
+    .card-flexx-5{
+        display: block !important;
+    }
+    .sonlug{
+        display: block;
+        width: 100%;
+    }
+    .flex-end{
+        display: block;
+        padding: 0;
+        padding-top: 30px;
+    }
+    .xett{
+        display: none; 
+    }
+    .end{
+        display: block;
+        padding: 0;
+        padding-top: 30px;
+    }
+    .contact{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .bg-color2{
+        height: 100%;
+    }
+    
+    
+}
+@media (min-width: 768px) and (max-width: 1023px){
+    .row{
+        display: block !important
+    }
+    .high{
+        width: 100%;
+    }
+    .text12{
+        padding-top: 0 !important;
+    }
+    .col{
+        padding-top: 0 !important;
+    }
+    .fon5{
+        padding-left: 0 !important;
+    }
+    .image{
+        width: 470px !important;
+        height: 875px !important;
+    }
+    .image-in-text{
+        padding-left: 0 !important;
+        padding-top: 785px !important;
+    }
+    .the-latest{
+        padding-top: 0 !important;
+    }
+    .card-body{
+        padding: 0 !important;
+    }
+    .card-title{
+        padding-top: 67px;
+    }
+    .title-1{
+        padding-top: 190px !important;
+    }
+    .imagetextcard2{
+        display: block !important;
+    }
+    .img-1-11{
+        width: 765px !important;
+    }
+    .d-flex{
+        padding: 0 !important;
+        width: 100% !important;
+    }
+    .text13{
+        display: block !important;
+        padding-top: 30px !important;
+    }
+    .high1{
+        width: 100% !important;
+    }
+    .learn1{
+        padding: 0 !important;
+    }
+    .card-text{
+        width: 100% !important;
+    }
+    .bg-color2{
+        height: 100%;
+    }
+    .sonlug{
+        display: block;
+        width: 100%;
+    }
+    .flex-end{
+        padding: 0;
+        padding-top: 30px;
+    }
+    .xett{
+        display: none; 
+    }
+    .end{
+        display: block;
+        padding: 0;
+        padding-top: 30px;
+    }
+    .contact{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
+    #myBtn{
+        width: 58px;
+        height: 55px;
+        right: 20px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1440px){
+    .row{
+        display: block !important;
+    }
+    .text12{
+        padding-top: 0 !important;
+    }
+    .col{
+        padding-top: 0 !important;
+        text-align: left !important;
+    }
+    .fon5{
+        padding-left: 0 !important;
+    }
+    .image{
+        width: 705px !important;
+       
+    }
+    .img-1-11{
+        width: 620px !important;
+    }
+    .number{
+        padding-left: 0 !important;
+    }
+    .number2{
+        padding-left: 0 !important;
+    }
+    .high1{
+        width: 100% !important;
+    }
+    .learn1{
+        padding-top: 0 !important;
+    }
+    .flex-end{
+        padding: 0;
+        margin: 0;
+        padding-top: 20px;
+    }
+    .contact{
+        width: 100%;
+    }
+    .end{
+        padding: 0;
+        padding-top: 50px;
+    }  
+    .sonlug{
+        width: 100%;
+    }
+    #myBtn{
+        width: 58px;
+        height: 55px;
+        right: 20px;
+    }
+}
+
